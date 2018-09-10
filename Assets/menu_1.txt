@@ -1,8 +1,8 @@
 Study
-Description 1
+[+5 hours, +2 GPA pts]
 Work
-Description 2
-Contact
-Description 3
+[+5 hours, -5 hp, +50 dollars]
 Sleep
-Description 4
+[next day, +5 hp]
+Contact
+Make a phone call to family members or friends.

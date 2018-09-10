@@ -1,4 +1,6 @@
 Friend
-Description 1
+Call up your friend.
 Family
-Description 2
+Call up your relatives.
+Go Back
+Back to previous menu.
